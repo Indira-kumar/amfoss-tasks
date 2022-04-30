@@ -65,7 +65,7 @@ cat North.txt East.txt >> Location-Coordinate.txt
 
 ## gitCommands
 
- git add .
- git commit -m "complete task-02"
- git push origin main
+- git add .
+- git commit -m "complete task-02"
+- git push origin main
 
