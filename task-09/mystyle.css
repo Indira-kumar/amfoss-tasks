@@ -1,0 +1,53 @@
+<style>
+        body { background-image:url('https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+color:black;
+background-repeat: no-repeat;
+background-size:cover;
+height: 100%;}
+
+img {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+
+}
+.imagestyle1 { position: relative; top: -3px; left: 120px;}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.fullCard {
+    width: 500px;
+    height: 580px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 40px 40px 40px 40px;
+    background-color: white;}
+h1{
+    text-align: center;
+    font-family:"Lucida Console";
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
+    font-size: large;
+}
+a:link {
+  color: rgb(116, 166, 179);
+}
+a:visited {
+  color:rgb(11, 192, 147);
+}
+a:hover {
+  color:rgb(116, 166, 179);
+}
+
+    </style>
