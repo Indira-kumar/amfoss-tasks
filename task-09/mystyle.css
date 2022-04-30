@@ -1,5 +1,4 @@
-<style>
-        body { background-image:url('https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+body { background-image:url('https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
 color:black;
 background-repeat: no-repeat;
 background-size:cover;
@@ -49,5 +48,3 @@ a:visited {
 a:hover {
   color:rgb(116, 166, 179);
 }
-
-    </style>
