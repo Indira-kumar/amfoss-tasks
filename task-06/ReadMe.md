@@ -1,0 +1,4 @@
+
+# Flutter based UI task
+
+For this task initially I referred documentation and used introduction screen module and coded a basic page view model. But then after that I tried a youtube playlist to learn flutter properly and completed 15 out of the 35 videos in the playlist. But since exams were going on, gradually I was not able to find time to sit for continous hours and do the project. Since I had multiple tries, each time a new way to implement, I lost the flow of it and was unable to complete the task. I have here attached the code that I did in the last hour now. I hope it conveys a basic layout of what I was trying to implement. I personally would like to learn flutter sometime and do this project compeletely.
