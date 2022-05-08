@@ -5,8 +5,8 @@ This task was the one I spent the most time with, because I was delighted by the
 
 # Data Scrapped from the Website
 
-Rank|Name|Net Worth|Age|Country|Source
-1|Elon Musk|$255.8 B|50|United States|"Tesla, SpaceX"
+Rank | Name | Net Worth | Age | Country | Source
+1| Elon Musk | $255.8 B | 50 | United States | "Tesla, SpaceX"
 2|Bernard Arnault & family|$144.0 B|73|France, LVMH
 3|Jeff Bezos|$140.6 B|58|United States|Amazon
 4|Bill Gates|$129.0 B|66|United States|Microsoft
